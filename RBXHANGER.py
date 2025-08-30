@@ -7,13 +7,20 @@ import random
 SUCCESS_PHRASES = [
     "REPORT DELIVERED! 💥",
     "TARGET HIT! 🎯",
-    "BOOM! HEADSHOT! 🔫"
+    "BOOM! HEADSHOT! "
+    "360 NO SCOPE BITCH"
+    "GG AS ALWAYS BITCH!"
+    "OWO GET BANNED"
+    ">_< nyan shot the target in the head"
+    "FUCK THE GOONERS BITCH"
+    "GG EZ HAHAHAHA"
+    "Now think about it why are you in a room spamming reports with nothing to do?"
 ]
 
 FAILURE_PHRASES = [
-    "FAILED! 💩",
-    "MISSED! ❌", 
-    "COOKIE IS TRASH! 🗑️"
+    "FAILED! ",
+    "MISSED! ", 
+    "COOKIE IS ASS!"
 ]
 
 PROXY_LIST = [
@@ -254,4 +261,5 @@ $$ │  $$ │$$$$$$$  │$$ ╱  $$ │      $$ │  $$ │$$ │  $$ │$$ │
     print(f"{'='*60}{Colors.END}")
 
 if __name__ == "__main__":
+
     main()
